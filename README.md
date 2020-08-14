@@ -33,9 +33,9 @@
 [<img align="left" alt="GitHub" width="25px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="docker" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][github]
 
----
-
 </br>
+
+---
 
 <img align="left" alt="lKolabrodl's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lKolabrodl&show_icons=true&hide_border=true" />
 
