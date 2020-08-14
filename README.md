@@ -1,4 +1,8 @@
-### Привет всем меня зовут Михаил 👋
+### Привет всем, меня зовут Михаил 👋
+
+- А это мой гитхаб, в нем я выкладываю свои pet-project, сниппеты и остальные штуки
+- Моя основная работа Full Stack Developer, но упор делаю больше на frontend части
+- Люблю свою работу, и в будущем надеюсь с ужасом не смотреть на свой код
 
 ### Мои контакты:
 
@@ -28,6 +32,8 @@
 [<img align="left" alt="Git" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" alt="GitHub" width="25px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="docker" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][github]
+
+---
 
 [telegram]: https://teleg.run/Kolabrod
 [vk]: https://vk.com/kolabrod
