@@ -17,6 +17,7 @@
 </br>
 
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lKolabrodl&show_icons=true&theme=radical)
 
 <img align="left" alt="lKolabrodl's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lKolabrodl&show_icons=true&hide_border=true" />
 
